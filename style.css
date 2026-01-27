@@ -1,0 +1,23 @@
+h1{
+    color:mediumpurple;
+    background-color: aqua;
+    text-align: center;
+    font-family:Helvetica, sans-serif;
+    border-collapse: collapse;
+}
+table{
+    color: cornflowerblue;
+    border:solid;
+    text-align: center;
+    display: inline-flex;
+}
+th{
+    color: blue;
+    background-color: mediumpurple;
+    font-weight: 800;
+}
+td{
+    color:white;
+    background-color: black;
+    font-size: larger;
+}
